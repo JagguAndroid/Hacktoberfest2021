@@ -27,6 +27,7 @@ int main()
                 }
         }
         cout<<"\nString [ "<<str1<<" ] after removing spaces = "<<str<<"\n";
+        cout<<"\ntask is completed\n";
 
         return 0;
 }
